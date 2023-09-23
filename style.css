@@ -1,0 +1,22 @@
+body{
+    
+    
+}
+.row-1{
+    display: flex;
+}
+.madhan{
+    width: 300px;
+}
+.kishore{
+    height: 500px;
+    border: 3px solid black;
+    width: 700px;
+    overflow-y:scroll;
+}
+.kis{
+    color: blue;
+    font-weight: bolder;
+    margin:30px 60px;
+
+}
